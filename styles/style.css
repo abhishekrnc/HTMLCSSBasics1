@@ -20,3 +20,11 @@
     background-color: bisque;
     font-family: 'Courier New', Courier, monospace;
 }
+
+#image {
+    width: 100%;
+    height: 600px;
+}
+
+
+
