@@ -21,7 +21,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-#image {
+.image img {
     width: 100%;
     height: auto;
 }
